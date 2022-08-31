@@ -7,3 +7,4 @@ list files digit only
 Welcome
 Move that file
 First delete
+First directory deletion
