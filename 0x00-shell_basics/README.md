@@ -5,3 +5,4 @@ long format
 hidden files
 list files digit only
 Welcome
+Move that file
